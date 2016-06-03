@@ -13,7 +13,7 @@
   "author": "Matheus Lucca do Carmo",
   "license": "MIT",
   "bin": {
-    "good-vibe": "./bin/index.js"
+    "thryoada": "./bin/index.js"
   },
   "bugs": {
     "url": "https://github.com/matheuslc/thryoada/issues"
