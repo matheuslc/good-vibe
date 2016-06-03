@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const commander = require('commander');
-const vibe = require('./lib/main');
+const thryoada = require('./lib/main');
 
 /**
  * CLI options

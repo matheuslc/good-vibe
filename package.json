@@ -1,5 +1,5 @@
 {
-  "name": "vibe",
+  "name": "thryoada",
   "version": "0.0.1",
   "description": "Things will break, but, keep going. Or not.",
   "main": "lib/app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matheuslc/vibe.git"
+    "url": "git+https://github.com/matheuslc/thryoada.git"
   },
   "author": "Matheus Lucca do Carmo",
   "license": "MIT",
@@ -16,9 +16,9 @@
     "good-vibe": "./bin/index.js"
   },
   "bugs": {
-    "url": "https://github.com/matheuslc/vibe/issues"
+    "url": "https://github.com/matheuslc/thryoada/issues"
   },
-  "homepage": "https://github.com/matheuslc/vibe#readme",
+  "homepage": "https://github.com/matheuslc/thryoada#readme",
   "dependencies": {
     "commander": "^2.9.0",
     "escodegen": "^1.8.0",
