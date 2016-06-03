@@ -1,0 +1,27 @@
+{
+  "name": "vibe",
+  "version": "0.0.1",
+  "description": "Things will break, but, keep going. Or not.",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuslc/vibe.git"
+  },
+  "author": "Matheus Lucca do Carmo",
+  "license": "MIT",
+  "bin": {
+    "good-vibe": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/matheuslc/vibe/issues"
+  },
+  "homepage": "https://github.com/matheuslc/vibe#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "escodegen": "^1.8.0",
+    "esprima": "^2.7.2"
+  }
+}
